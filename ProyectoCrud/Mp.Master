@@ -17,11 +17,7 @@
 <body>
     <nav class="navbar bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand">InfoToolsSV</a>
-            <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Buscar</button>
-            </form>
+            <a class="navbar-brand">Aprendiendo .NET Framework</a>            
         </div>
     </nav>
     <asp:ContentPlaceHolder ID="body" runat="server">
