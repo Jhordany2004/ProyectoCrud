@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="Mp.Master.cs">
       <DependentUpon>Mp.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Mp.Master.designer.cs">
       <DependentUpon>Mp.Master</DependentUpon>
